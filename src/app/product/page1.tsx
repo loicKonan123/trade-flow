@@ -20,7 +20,7 @@ export default function ProductPage({ params }: { params: { id: string } }) {
     src: "/store/breakout-pro.gif",
     price: "49€",
   };
-
+  // test
   return (
     <div className="min-h-screen flex flex-col bg-gradient-to-br from-gray-900 via-purple-900 to-black">
       {/* Navbar */}
